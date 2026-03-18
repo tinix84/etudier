@@ -1,3 +1,5 @@
+> **Note:** This is a reference fork. The original upstream repository is the actively maintained version. This fork is kept for personal reference and is not actively developed.
+
 <img style="float: left;" height=300 src="https://c1.staticflickr.com/2/1764/41255361380_f770f3f284_b.jpg">
 
 *étudier* is a small Python program that uses [Selenium] and [requests-html] to
